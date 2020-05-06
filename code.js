@@ -90,7 +90,7 @@ if(game == 'tijera' && user.toLowerCase() == 'papel'){
     console.log('y yo jugué ' + game);
     console.log('Ganaste Piedra aplasta a Tijera');
 }else if(user != game){
-    alert('Que es eso ???, solo permtimos Tijera, Papel, Piedra, Lagarto o Spock');
+    alert('¿¿¿  QUÉ ES ESO ???, solo permtimos Tijera, Papel, Piedra, Lagarto o Spock');
 }else{
     console.log('Empatados, repetir juego')
 }
